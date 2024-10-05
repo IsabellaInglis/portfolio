@@ -13,6 +13,7 @@
   h2 {
     font-size: 38px !important;
     line-height: 1.5;
+    text-align: center;
   }
 
   p {
@@ -22,12 +23,23 @@
   .project-link {
     display: block;
     text-align: center;
-    margin: 0 20px;
+  }
+
+  .project-title {
+    padding-top: 20px;
+  }
+
+  .ai-poem-generator-link {
+    margin-bottom: 50px;
   }
 }
 
 body {
   margin-top: 100px 0;
+}
+
+.top-line {
+  margin-top: 100px;
 }
 
 h1,
